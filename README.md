@@ -1,2 +1,2 @@
 # GoUtils
-just some universal utils 
+just some golang universal utils 
