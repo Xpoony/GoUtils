@@ -1,0 +1,30 @@
+{
+	"People":
+		[
+			{
+				"Name":"Tom",
+				"Sex":"male",
+				"Age":22
+			},{
+				"Name":"Kate",
+				"Sex":"female",
+				"Age":21
+			}
+		],
+	"Server":{
+		"Ip":"192.168.1.2",	
+		"TcpPort":8000
+	},
+	"DataBase":{
+		"Url":"192.168.1.3:3000",
+		"DbName":"SchoolData",
+		"TableName":"Data"
+	},
+	"System":{
+		"Info":{
+			"Name":"Google",
+			"Version":"2.1.2"
+		},
+		"CopyRight":"Jack L"
+	}
+}
